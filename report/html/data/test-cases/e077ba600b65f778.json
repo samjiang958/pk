@@ -1,0 +1,160 @@
+{
+  "uid" : "e077ba600b65f778",
+  "name" : "test_get_activityList",
+  "fullName" : "case.case02_user.TestUser#test_get_activityList",
+  "historyId" : "1e094894ac5c93bb01d92f445adde649",
+  "time" : {
+    "start" : 1663041470658,
+    "stop" : 1663041470686,
+    "duration" : 28
+  },
+  "description" : "\n        获取活动列表id\n        :param _api: 请求方法\n        :param _domain: 域名\n        :return:活动Id\n        ",
+  "descriptionHtml" : "<pre><code>    获取活动列表id\n    :param _api: 请求方法\n    :param _domain: 域名\n    :return:活动Id\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_domain",
+    "time" : {
+      "start" : 1663041470658,
+      "stop" : 1663041470658,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_methods",
+    "time" : {
+      "start" : 1663041420365,
+      "stop" : 1663041420365,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_api",
+    "time" : {
+      "start" : 1663041470658,
+      "stop" : 1663041470658,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "获取活动列表id"
+  }, {
+    "name" : "feature",
+    "value" : "用户抽奖模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case02_user"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "18580-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case02_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a6efd441eb22a90c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662384014822,
+        "stop" : 1662384014853,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "5300f70c763b1382",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382668547,
+        "stop" : 1662382668580,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "2c8f03b01a3162b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382084309,
+        "stop" : 1662382084341,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "78ac99823d91bcd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662263828571,
+        "stop" : 1662263828602,
+        "duration" : 31
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a8f02886e09e2cf4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662384014822,
+          "stop" : 1662384014853,
+          "duration" : 31
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e077ba600b65f778.json",
+  "parameterValues" : [ ]
+}

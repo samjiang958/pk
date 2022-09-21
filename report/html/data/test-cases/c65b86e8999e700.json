@@ -1,0 +1,56 @@
+{
+  "uid" : "c65b86e8999e700",
+  "name" : "test_click_Defeat_ext_button",
+  "fullName" : "case.case01_admin.Testcase#test_click_Defeat_ext_button",
+  "historyId" : "5589cf9d6d6cb5503cba6c2ef26eb382",
+  "time" : {
+    "start" : 1662263803630,
+    "stop" : 1662263804675,
+    "duration" : 1045
+  },
+  "description" : "新增活动页-点击新增失败提示语",
+  "descriptionHtml" : "<p>新增活动页-点击新增失败提示语</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "1540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c65b86e8999e700.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "bc0437968621f981",
+  "name" : "test_click_user_info",
+  "fullName" : "case.case02_user.TestUser#test_click_user_info",
+  "historyId" : "23dcbcd67ff025c92dbed8a7aa067678",
+  "time" : {
+    "start" : 1662263847115,
+    "stop" : 1662263849285,
+    "duration" : 2170
+  },
+  "description" : "点击个人中心按钮-进入个人中心页面",
+  "descriptionHtml" : "<p>点击个人中心按钮-进入个人中心页面</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case02_user"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "1540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case02_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc0437968621f981.json",
+  "parameterValues" : [ ]
+}

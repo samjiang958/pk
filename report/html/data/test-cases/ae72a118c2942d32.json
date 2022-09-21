@@ -1,0 +1,56 @@
+{
+  "uid" : "ae72a118c2942d32",
+  "name" : "test_click_commodity",
+  "fullName" : "case.case01_admin.Testcase#test_click_commodity",
+  "historyId" : "b3686dbf3069e78e5ac7923a64a5d2ff",
+  "time" : {
+    "start" : 1662263775664,
+    "stop" : 1662263776707,
+    "duration" : 1043
+  },
+  "description" : "后台首页-点击商品管理",
+  "descriptionHtml" : "<p>后台首页-点击商品管理</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "1540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae72a118c2942d32.json",
+  "parameterValues" : [ ]
+}

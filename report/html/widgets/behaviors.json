@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "7e39d029741b974de496f611c51fcbab",
+    "name" : "抽奖管理后台",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 31,
+      "unknown" : 0,
+      "total" : 31
+    }
+  }, {
+    "uid" : "bb6c07c7ac3ca6dbbc7c65f06ff679f0",
+    "name" : "员工核销模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "0346d37c81b55c07d0d6f6e198f6123e",
+    "name" : "用户抽奖模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  } ]
+}

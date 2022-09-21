@@ -1,0 +1,62 @@
+{
+  "uid" : "6d50215dc7b96418",
+  "name" : "test_check_prize_info",
+  "fullName" : "case.case02_user.TestUser#test_check_prize_info",
+  "historyId" : "5909d5403ddf568ccfc0796016b3ea28",
+  "time" : {
+    "start" : 1662384057013,
+    "stop" : 1662384059194,
+    "duration" : 2181
+  },
+  "description" : "个人中心页面-点击中奖记录按钮",
+  "descriptionHtml" : "<p>个人中心页面-点击中奖记录按钮</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "用户抽奖模块"
+  }, {
+    "name" : "story",
+    "value" : "个人中心页面-点击中奖记录按钮"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case02_user"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "28244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case02_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d50215dc7b96418.json",
+  "parameterValues" : [ ]
+}

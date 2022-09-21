@@ -1,0 +1,56 @@
+{
+  "uid" : "2d555a841207ef5",
+  "name" : "test_send_Defeat_probability",
+  "fullName" : "case.case01_admin.Testcase#test_send_Defeat_probability",
+  "historyId" : "3519e88401be1f150c3bc7319dd7ebb6",
+  "time" : {
+    "start" : 1662263807140,
+    "stop" : 1662263808202,
+    "duration" : 1062
+  },
+  "description" : "新增失败提示语弹框-添加失败概率",
+  "descriptionHtml" : "<p>新增失败提示语弹框-添加失败概率</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "1540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d555a841207ef5.json",
+  "parameterValues" : [ ]
+}

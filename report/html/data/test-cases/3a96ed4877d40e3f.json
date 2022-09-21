@@ -1,0 +1,131 @@
+{
+  "uid" : "3a96ed4877d40e3f",
+  "name" : "test_click_goods_type",
+  "fullName" : "case.case01_admin.Testcase#test_click_goods_type",
+  "historyId" : "ef65d52f1cace10b9da17d682b38b829",
+  "time" : {
+    "start" : 1663041422497,
+    "stop" : 1663041424583,
+    "duration" : 2086
+  },
+  "description" : "新增商品弹框-选择商品类型",
+  "descriptionHtml" : "<p>新增商品弹框-选择商品类型</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "story",
+    "value" : "新增商品弹框-选择商品类型"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "18580-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7d0d66ee5a049402",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662385289187,
+        "stop" : 1662385291268,
+        "duration" : 2081
+      }
+    }, {
+      "uid" : "766a51717fe14b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662383966681,
+        "stop" : 1662383968765,
+        "duration" : 2084
+      }
+    }, {
+      "uid" : "91049000e121ddeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382620409,
+        "stop" : 1662382622494,
+        "duration" : 2085
+      }
+    }, {
+      "uid" : "c39f029639076e3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382035950,
+        "stop" : 1662382038023,
+        "duration" : 2073
+      }
+    }, {
+      "uid" : "a383e379f423a0b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662381828962,
+        "stop" : 1662381831047,
+        "duration" : 2085
+      }
+    }, {
+      "uid" : "65d6cac4138f5fe5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662263779907,
+        "stop" : 1662263782031,
+        "duration" : 2124
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b0a5dc7ab5ec55ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662383966681,
+          "stop" : 1662383968765,
+          "duration" : 2084
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3a96ed4877d40e3f.json",
+  "parameterValues" : [ ]
+}

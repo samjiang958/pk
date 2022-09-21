@@ -1,0 +1,56 @@
+{
+  "uid" : "b79c4b37a707d6d9",
+  "name" : "test_click_probability2",
+  "fullName" : "case.case01_admin.Testcase#test_click_probability2",
+  "historyId" : "00179515bff4083e5cac24d54636a9f0",
+  "time" : {
+    "start" : 1662263792855,
+    "stop" : 1662263793908,
+    "duration" : 1053
+  },
+  "description" : "新增商品弹框-输入中奖概率2",
+  "descriptionHtml" : "<p>新增商品弹框-输入中奖概率2</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "1540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b79c4b37a707d6d9.json",
+  "parameterValues" : [ ]
+}

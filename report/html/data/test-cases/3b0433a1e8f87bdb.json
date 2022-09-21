@@ -1,0 +1,56 @@
+{
+  "uid" : "3b0433a1e8f87bdb",
+  "name" : "test_click_use_submit",
+  "fullName" : "case.case03_employee.TestEmployee#test_click_use_submit",
+  "historyId" : "2b0f02f66d73313a78a0d10dbae5bf04",
+  "time" : {
+    "start" : 1662382122484,
+    "stop" : 1662382123505,
+    "duration" : 1021
+  },
+  "description" : "点击提交核销",
+  "descriptionHtml" : "<p>点击提交核销</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case03_employee"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmployee"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "25880-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case03_employee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b0433a1e8f87bdb.json",
+  "parameterValues" : [ ]
+}

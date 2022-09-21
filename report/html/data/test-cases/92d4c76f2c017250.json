@@ -1,0 +1,62 @@
+{
+  "uid" : "92d4c76f2c017250",
+  "name" : "test_send_Defeat_text",
+  "fullName" : "case.case01_admin.Testcase#test_send_Defeat_text",
+  "historyId" : "92397491b47e93bb27f781f090f98334",
+  "time" : {
+    "start" : 1662382644977,
+    "stop" : 1662382647405,
+    "duration" : 2428
+  },
+  "description" : "新增失败提示语弹框-添加失败提示文案",
+  "descriptionHtml" : "<p>新增失败提示语弹框-添加失败提示文案</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "新增失败提示语弹框-添加失败提示文案"
+  }, {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "23680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92d4c76f2c017250.json",
+  "parameterValues" : [ ]
+}

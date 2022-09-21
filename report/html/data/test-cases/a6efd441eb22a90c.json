@@ -1,0 +1,107 @@
+{
+  "uid" : "a6efd441eb22a90c",
+  "name" : "test_get_activityList",
+  "fullName" : "case.case02_user.TestUser#test_get_activityList",
+  "historyId" : "1e094894ac5c93bb01d92f445adde649",
+  "time" : {
+    "start" : 1662384014822,
+    "stop" : 1662384014853,
+    "duration" : 31
+  },
+  "description" : "\n        获取活动列表id\n        :param _api: 请求方法\n        :param _domain: 域名\n        :return:活动Id\n        ",
+  "descriptionHtml" : "<pre><code>    获取活动列表id\n    :param _api: 请求方法\n    :param _domain: 域名\n    :return:活动Id\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_methods",
+    "time" : {
+      "start" : 1662383964526,
+      "stop" : 1662383964526,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_api",
+    "time" : {
+      "start" : 1662384014820,
+      "stop" : 1662384014820,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_domain",
+    "time" : {
+      "start" : 1662384014820,
+      "stop" : 1662384014820,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "获取活动列表id"
+  }, {
+    "name" : "feature",
+    "value" : "用户抽奖模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case02_user"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "28244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case02_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6efd441eb22a90c.json",
+  "parameterValues" : [ ]
+}

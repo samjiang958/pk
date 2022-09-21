@@ -1,0 +1,115 @@
+{
+  "uid" : "1e9223f96e8d1889",
+  "name" : "test_click_use_submit",
+  "fullName" : "case.case03_employee.TestEmployee#test_click_use_submit",
+  "historyId" : "2b0f02f66d73313a78a0d10dbae5bf04",
+  "time" : {
+    "start" : 1663041550780,
+    "stop" : 1663041551798,
+    "duration" : 1018
+  },
+  "description" : "点击提交核销",
+  "descriptionHtml" : "<p>点击提交核销</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "员工核销模块"
+  }, {
+    "name" : "story",
+    "value" : "点击提交核销"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case03_employee"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmployee"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "18580-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case03_employee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5f6469297b270b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662384094721,
+        "stop" : 1662384095742,
+        "duration" : 1021
+      }
+    }, {
+      "uid" : "2f6126bca7671360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382748138,
+        "stop" : 1662382749163,
+        "duration" : 1025
+      }
+    }, {
+      "uid" : "3b0433a1e8f87bdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382122484,
+        "stop" : 1662382123505,
+        "duration" : 1021
+      }
+    }, {
+      "uid" : "6ae99c621ec619ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662263865999,
+        "stop" : 1662263867027,
+        "duration" : 1028
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "9ab5a16e104a786a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662384094721,
+          "stop" : 1662384095742,
+          "duration" : 1021
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1e9223f96e8d1889.json",
+  "parameterValues" : [ ]
+}

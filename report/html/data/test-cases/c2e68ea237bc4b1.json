@@ -1,0 +1,62 @@
+{
+  "uid" : "c2e68ea237bc4b1",
+  "name" : "test_close_driver",
+  "fullName" : "case.case02_user.TestUser#test_close_driver",
+  "historyId" : "329263db0b9999a4ac6d8dd11531e1b2",
+  "time" : {
+    "start" : 1662384061362,
+    "stop" : 1662384064470,
+    "duration" : 3108
+  },
+  "description" : "关闭浏览器",
+  "descriptionHtml" : "<p>关闭浏览器</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "用户抽奖模块"
+  }, {
+    "name" : "story",
+    "value" : "关闭浏览器"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case02_user"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "28244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case02_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2e68ea237bc4b1.json",
+  "parameterValues" : [ ]
+}

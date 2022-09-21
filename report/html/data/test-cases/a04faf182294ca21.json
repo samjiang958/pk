@@ -1,0 +1,62 @@
+{
+  "uid" : "a04faf182294ca21",
+  "name" : "test_init_open_admin",
+  "fullName" : "case.case01_admin.Testcase#test_init_open_admin",
+  "historyId" : "6246dd4af12091e9226fb1521ff2d40f",
+  "time" : {
+    "start" : 1662382608188,
+    "stop" : 1662382611970,
+    "duration" : 3782
+  },
+  "description" : "初始化方法打开浏览器",
+  "descriptionHtml" : "<p>初始化方法打开浏览器</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "初始化方法打开浏览器"
+  }, {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "23680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a04faf182294ca21.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "eafe355fec7ed257",
+  "name" : "test_click_create_goods_button3",
+  "fullName" : "case.case01_admin.Testcase#test_click_create_goods_button3",
+  "historyId" : "538febcce1650074034de43f47601863",
+  "time" : {
+    "start" : 1662382642885,
+    "stop" : 1662382643935,
+    "duration" : 1050
+  },
+  "description" : "新增商品弹框-点击提交按钮",
+  "descriptionHtml" : "<p>新增商品弹框-点击提交按钮</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "新增商品弹框-点击提交按钮"
+  }, {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "23680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eafe355fec7ed257.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,131 @@
+{
+  "uid" : "f152c1ac54fb1bf3",
+  "name" : "test_click_goods_template",
+  "fullName" : "case.case01_admin.Testcase#test_click_goods_template",
+  "historyId" : "1072009ebe3cc029548b89f33cc40dec",
+  "time" : {
+    "start" : 1663041424586,
+    "stop" : 1663041426666,
+    "duration" : 2080
+  },
+  "description" : "新增商品弹框-选择商品模板",
+  "descriptionHtml" : "<p>新增商品弹框-选择商品模板</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "story",
+    "value" : "新增商品弹框-选择商品模板"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "18580-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7b69ac562ffe5c9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662385291270,
+        "stop" : 1662385293348,
+        "duration" : 2078
+      }
+    }, {
+      "uid" : "7b1ed1112823e83c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662383968768,
+        "stop" : 1662383970858,
+        "duration" : 2090
+      }
+    }, {
+      "uid" : "3b486ed4ff30c993",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382622498,
+        "stop" : 1662382624577,
+        "duration" : 2079
+      }
+    }, {
+      "uid" : "231b81c445014629",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662382038027,
+        "stop" : 1662382040114,
+        "duration" : 2087
+      }
+    }, {
+      "uid" : "9586e5a604a922f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662381831050,
+        "stop" : 1662381833137,
+        "duration" : 2087
+      }
+    }, {
+      "uid" : "35ecc6ce64275115",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662263782035,
+        "stop" : 1662263784121,
+        "duration" : 2086
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d50ad9ac56e7082b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662383968768,
+          "stop" : 1662383970858,
+          "duration" : 2090
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f152c1ac54fb1bf3.json",
+  "parameterValues" : [ ]
+}

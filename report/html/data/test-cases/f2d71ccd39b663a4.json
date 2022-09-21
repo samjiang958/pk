@@ -1,0 +1,62 @@
+{
+  "uid" : "f2d71ccd39b663a4",
+  "name" : "test_click_create_activity_button",
+  "fullName" : "case.case01_admin.Testcase#test_click_create_activity_button",
+  "historyId" : "bd41ce47beb0ad81de3d32bf8f3966d7",
+  "time" : {
+    "start" : 1662382065138,
+    "stop" : 1662382066182,
+    "duration" : 1044
+  },
+  "description" : "新增活动页面-点击提交按钮",
+  "descriptionHtml" : "<p>新增活动页面-点击提交按钮</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "新增活动页面-点击提交按钮"
+  }, {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "25880-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2d71ccd39b663a4.json",
+  "parameterValues" : [ ]
+}

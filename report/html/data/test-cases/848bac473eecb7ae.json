@@ -1,0 +1,56 @@
+{
+  "uid" : "848bac473eecb7ae",
+  "name" : "test_send_username",
+  "fullName" : "case.case03_employee.TestEmployee#test_send_username",
+  "historyId" : "81904db9f42a63f03dcb42fab1d64a9b",
+  "time" : {
+    "start" : 1662382741793,
+    "stop" : 1662382742862,
+    "duration" : 1069
+  },
+  "description" : "登录页面-输入用户名",
+  "descriptionHtml" : "<p>登录页面-输入用户名</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case03_employee"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmployee"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "23680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case03_employee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "848bac473eecb7ae.json",
+  "parameterValues" : [ ]
+}

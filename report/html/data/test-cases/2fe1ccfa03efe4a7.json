@@ -1,0 +1,62 @@
+{
+  "uid" : "2fe1ccfa03efe4a7",
+  "name" : "test_click_probability3",
+  "fullName" : "case.case01_admin.Testcase#test_click_probability3",
+  "historyId" : "949ac97c88c3350c20aa2d398800189a",
+  "time" : {
+    "start" : 1662385310691,
+    "stop" : 1662385311725,
+    "duration" : 1034
+  },
+  "description" : "新增商品弹框-输入中奖概率3",
+  "descriptionHtml" : "<p>新增商品弹框-输入中奖概率3</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "story",
+    "value" : "新增商品弹框-输入中奖概率3"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "28160-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fe1ccfa03efe4a7.json",
+  "parameterValues" : [ ]
+}

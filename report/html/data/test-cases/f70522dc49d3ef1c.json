@@ -1,0 +1,62 @@
+{
+  "uid" : "f70522dc49d3ef1c",
+  "name" : "test_click_create_activity",
+  "fullName" : "case.case01_admin.Testcase#test_click_create_activity",
+  "historyId" : "45acee805810dc9d78e629e9d63eb37b",
+  "time" : {
+    "start" : 1662382617225,
+    "stop" : 1662382618259,
+    "duration" : 1034
+  },
+  "description" : "商品管理页-点击新增活动商品",
+  "descriptionHtml" : "<p>商品管理页-点击新增活动商品</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "商品管理页-点击新增活动商品"
+  }, {
+    "name" : "feature",
+    "value" : "抽奖管理后台"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "23680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f70522dc49d3ef1c.json",
+  "parameterValues" : [ ]
+}

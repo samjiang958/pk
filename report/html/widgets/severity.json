@@ -1,0 +1,541 @@
+[ {
+  "uid" : "4ce07dea1cd67ae",
+  "name" : "test_clear_activity_list",
+  "time" : {
+    "start" : 1663041462985,
+    "stop" : 1663041467535,
+    "duration" : 4550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcbc3235aec2fde0",
+  "name" : "test_send_activity_name",
+  "time" : {
+    "start" : 1663041420365,
+    "stop" : 1663041421447,
+    "duration" : 1082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f3b0d0051564d61",
+  "name" : "test_click_prize_button",
+  "time" : {
+    "start" : 1663041498962,
+    "stop" : 1663041510397,
+    "duration" : 11435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a96ed4877d40e3f",
+  "name" : "test_click_goods_type",
+  "time" : {
+    "start" : 1663041422497,
+    "stop" : 1663041424583,
+    "duration" : 2086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ced03a23bc9db523",
+  "name" : "test_get_prize_code",
+  "time" : {
+    "start" : 1663041519971,
+    "stop" : 1663041519992,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb413229dd18791",
+  "name" : "test_get_activityStatus_list",
+  "time" : {
+    "start" : 1663041454692,
+    "stop" : 1663041460906,
+    "duration" : 6214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f6c6e7be11a17e",
+  "name" : "test_click_create_activity_button",
+  "time" : {
+    "start" : 1663041451558,
+    "stop" : 1663041452597,
+    "duration" : 1039
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b63e15847d9ec8",
+  "name" : "test_get_activityName_list",
+  "time" : {
+    "start" : 1663041452599,
+    "stop" : 1663041454690,
+    "duration" : 2091
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "291dbda73062d2f2",
+  "name" : "test_click_goods_type2",
+  "time" : {
+    "start" : 1663041429823,
+    "stop" : 1663041433244,
+    "duration" : 3421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e077ba600b65f778",
+  "name" : "test_get_activityList",
+  "time" : {
+    "start" : 1663041470658,
+    "stop" : 1663041470686,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64ed85a97e22d1a6",
+  "name" : "test_click_create_goods_button3",
+  "time" : {
+    "start" : 1663041444956,
+    "stop" : 1663041445990,
+    "duration" : 1034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "477f03855b11f8ae",
+  "name" : "test_send_Defeat_text",
+  "time" : {
+    "start" : 1663041447041,
+    "stop" : 1663041449475,
+    "duration" : 2434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ea46a347eb623f1",
+  "name" : "test_close_driver",
+  "time" : {
+    "start" : 1663041516878,
+    "stop" : 1663041519968,
+    "duration" : 3090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "300abb635f36b2ca",
+  "name" : "test_send_phone",
+  "time" : {
+    "start" : 1663041548563,
+    "stop" : 1663041549730,
+    "duration" : 1167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e18dbf589a466a3d",
+  "name" : "test_click_goods_type3",
+  "time" : {
+    "start" : 1663041438427,
+    "stop" : 1663041441851,
+    "duration" : 3424
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9d5d8f23abf5be8",
+  "name" : "test_click_commodity",
+  "time" : {
+    "start" : 1663041418282,
+    "stop" : 1663041419329,
+    "duration" : 1047
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf45f9f55349296c",
+  "name" : "test_click_login_button",
+  "time" : {
+    "start" : 1663041496914,
+    "stop" : 1663041498959,
+    "duration" : 2045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4e197c97a8e3723",
+  "name" : "test_click_create_goods2",
+  "time" : {
+    "start" : 1663041428781,
+    "stop" : 1663041429820,
+    "duration" : 1039
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f152c1ac54fb1bf3",
+  "name" : "test_click_goods_template",
+  "time" : {
+    "start" : 1663041424586,
+    "stop" : 1663041426666,
+    "duration" : 2080
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66477122764599c1",
+  "name" : "test_click_probability3",
+  "time" : {
+    "start" : 1663041443917,
+    "stop" : 1663041444951,
+    "duration" : 1034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86fa54acadf1d21e",
+  "name" : "test_send_username",
+  "time" : {
+    "start" : 1663041544359,
+    "stop" : 1663041545404,
+    "duration" : 1045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7358d28df30a0ce",
+  "name" : "test_click_usre_record",
+  "time" : {
+    "start" : 1663041551800,
+    "stop" : 1663041553972,
+    "duration" : 2172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82f169fee0ccac17",
+  "name" : "test_click_creat_button",
+  "time" : {
+    "start" : 1663041450520,
+    "stop" : 1663041451556,
+    "duration" : 1036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92ae2f9ab326d32b",
+  "name" : "test_click_user_info",
+  "time" : {
+    "start" : 1663041510399,
+    "stop" : 1663041512560,
+    "duration" : 2161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1e56d8fa9edbd5d",
+  "name" : "test_click_use_button",
+  "time" : {
+    "start" : 1663041547477,
+    "stop" : 1663041548561,
+    "duration" : 1084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6a7f2297ad29051",
+  "name" : "test_close_driver",
+  "time" : {
+    "start" : 1663041467537,
+    "stop" : 1663041470656,
+    "duration" : 3119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c826585362c836c",
+  "name" : "test_send_username",
+  "time" : {
+    "start" : 1663041494795,
+    "stop" : 1663041495857,
+    "duration" : 1062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6331efc35dc598b9",
+  "name" : "test_click_goods_template3",
+  "time" : {
+    "start" : 1663041441853,
+    "stop" : 1663041443914,
+    "duration" : 2061
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56873dd1798dd3ac",
+  "name" : "test_click_create_goods3",
+  "time" : {
+    "start" : 1663041437386,
+    "stop" : 1663041438424,
+    "duration" : 1038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bf0bb6bfcc96e4f",
+  "name" : "test_click_probability2",
+  "time" : {
+    "start" : 1663041435325,
+    "stop" : 1663041436353,
+    "duration" : 1028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71f07cbebccad1d",
+  "name" : "test_send_username",
+  "time" : {
+    "start" : 1663041414094,
+    "stop" : 1663041415152,
+    "duration" : 1058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "990cc456c1661835",
+  "name" : "test_click_create_goods",
+  "time" : {
+    "start" : 1663041421449,
+    "stop" : 1663041422494,
+    "duration" : 1045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8d1e2bb8cb5cbef",
+  "name" : "test_check_prize_detail",
+  "time" : {
+    "start" : 1663041514726,
+    "stop" : 1663041516875,
+    "duration" : 2149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9af057c19ea9cc78",
+  "name" : "test_click_probability",
+  "time" : {
+    "start" : 1663041426672,
+    "stop" : 1663041427716,
+    "duration" : 1044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa81b1954d18cafa",
+  "name" : "test_click_create_activity",
+  "time" : {
+    "start" : 1663041419332,
+    "stop" : 1663041420363,
+    "duration" : 1031
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a51e0c6ee81369",
+  "name" : "test_send_pwd",
+  "time" : {
+    "start" : 1663041415154,
+    "stop" : 1663041416203,
+    "duration" : 1049
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b43f92704de84776",
+  "name" : "test_init_open_user",
+  "time" : {
+    "start" : 1663041519994,
+    "stop" : 1663041544356,
+    "duration" : 24362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93ac60dbf10a9c78",
+  "name" : "test_send_pwd",
+  "time" : {
+    "start" : 1663041495860,
+    "stop" : 1663041496912,
+    "duration" : 1052
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57ff72121b0e57c4",
+  "name" : "test_send_Defeat_probability",
+  "time" : {
+    "start" : 1663041449480,
+    "stop" : 1663041450518,
+    "duration" : 1038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a84a41a33c8b68d1",
+  "name" : "test_click_start_activityStatus",
+  "time" : {
+    "start" : 1663041460909,
+    "stop" : 1663041462983,
+    "duration" : 2074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9928440b71349db",
+  "name" : "test_click_goods_template2",
+  "time" : {
+    "start" : 1663041433247,
+    "stop" : 1663041435322,
+    "duration" : 2075
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3303c0f283c83ecc",
+  "name" : "test_click_create_goods_button2",
+  "time" : {
+    "start" : 1663041436355,
+    "stop" : 1663041437384,
+    "duration" : 1029
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50e307662855bd8d",
+  "name" : "test_init_open_user",
+  "time" : {
+    "start" : 1663041470690,
+    "stop" : 1663041494792,
+    "duration" : 24102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a5119ec6495398e",
+  "name" : "test_send_pwd",
+  "time" : {
+    "start" : 1663041545407,
+    "stop" : 1663041546452,
+    "duration" : 1045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7c22d511406fd4d",
+  "name" : "test_click_create_goods_button",
+  "time" : {
+    "start" : 1663041427721,
+    "stop" : 1663041428779,
+    "duration" : 1058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c42a4ed927b5eca",
+  "name" : "test_init_open_admin",
+  "time" : {
+    "start" : 1663041409628,
+    "stop" : 1663041414092,
+    "duration" : 4464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a28c126c134e2d4",
+  "name" : "test_close_driver",
+  "time" : {
+    "start" : 1663041553974,
+    "stop" : 1663041562074,
+    "duration" : 8100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c7c9599c218b7d2",
+  "name" : "test_click_navigation",
+  "time" : {
+    "start" : 1663041417245,
+    "stop" : 1663041418280,
+    "duration" : 1035
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a69eb7df0a614df3",
+  "name" : "test_click_login_button",
+  "time" : {
+    "start" : 1663041546455,
+    "stop" : 1663041547475,
+    "duration" : 1020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "723d8b6c2dd643db",
+  "name" : "test_click_Defeat_ext_button",
+  "time" : {
+    "start" : 1663041445993,
+    "stop" : 1663041447038,
+    "duration" : 1045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e9223f96e8d1889",
+  "name" : "test_click_use_submit",
+  "time" : {
+    "start" : 1663041550780,
+    "stop" : 1663041551798,
+    "duration" : 1018
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61cc44306fa2366c",
+  "name" : "test_click_login_button",
+  "time" : {
+    "start" : 1663041416206,
+    "stop" : 1663041417243,
+    "duration" : 1037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72a2945434f0cf9a",
+  "name" : "test_check_prize_info",
+  "time" : {
+    "start" : 1663041512565,
+    "stop" : 1663041514723,
+    "duration" : 2158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f87c638dadcbab4",
+  "name" : "test_send_prize_code",
+  "time" : {
+    "start" : 1663041549733,
+    "stop" : 1663041550777,
+    "duration" : 1044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

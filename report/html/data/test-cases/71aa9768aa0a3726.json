@@ -1,0 +1,56 @@
+{
+  "uid" : "71aa9768aa0a3726",
+  "name" : "test_click_start_activityStatus",
+  "fullName" : "case.case01_admin.Testcase#test_click_start_activityStatus",
+  "historyId" : "40676c6bfe6b577f1be10fb5fea3bba1",
+  "time" : {
+    "start" : 1662263818711,
+    "stop" : 1662263820791,
+    "duration" : 2080
+  },
+  "description" : "活动管理页面-点击启用活动按钮",
+  "descriptionHtml" : "<p>活动管理页面-点击启用活动按钮</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case01_admin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "1540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case01_admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71aa9768aa0a3726.json",
+  "parameterValues" : [ ]
+}

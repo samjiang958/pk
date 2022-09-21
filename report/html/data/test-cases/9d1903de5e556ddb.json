@@ -1,0 +1,56 @@
+{
+  "uid" : "9d1903de5e556ddb",
+  "name" : "test_send_phone",
+  "fullName" : "case.case03_employee.TestEmployee#test_send_phone",
+  "historyId" : "0418895f100cbc7848aae3a7a46041e5",
+  "time" : {
+    "start" : 1662263863869,
+    "stop" : 1662263864926,
+    "duration" : 1057
+  },
+  "description" : "核销页面-输入手机号",
+  "descriptionHtml" : "<p>核销页面-输入手机号</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "case03_employee"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmployee"
+  }, {
+    "name" : "host",
+    "value" : "jiangjiale"
+  }, {
+    "name" : "thread",
+    "value" : "1540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.case03_employee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d1903de5e556ddb.json",
+  "parameterValues" : [ ]
+}
